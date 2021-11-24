@@ -1,0 +1,26 @@
+<annotation>
+	<folder>doencas_label</folder>
+	<filename>name307.jpg</filename>
+	<path>/home/brito/Imagens/doencas_label/name307.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ferrugem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2186</xmin>
+			<ymin>1245</ymin>
+			<xmax>2294</xmax>
+			<ymax>1370</ymax>
+		</bndbox>
+	</object>
+</annotation>

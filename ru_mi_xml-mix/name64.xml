@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ferrugem</folder>
+	<filename>name64.jpg</filename>
+	<path>/home/alvaro/Documentos/doenças/ferrugem/name64.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ferrugem</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2400</xmin>
+			<ymin>1129</ymin>
+			<xmax>2608</xmax>
+			<ymax>1323</ymax>
+		</bndbox>
+	</object>
+</annotation>

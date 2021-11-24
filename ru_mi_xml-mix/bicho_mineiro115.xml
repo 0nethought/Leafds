@@ -1,0 +1,26 @@
+<annotation>
+	<folder>brito</folder>
+	<filename>bicho_mineiro115.jpg</filename>
+	<path>/home/brito/Imagens/brito/bicho_mineiro115.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>2250</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicho_mineiro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1325</xmin>
+			<ymin>1518</ymin>
+			<xmax>1981</xmax>
+			<ymax>2049</ymax>
+		</bndbox>
+	</object>
+</annotation>
